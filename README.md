@@ -38,6 +38,8 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+Andrey: It'll be long funny road
+
 Exercise done!
 
 ---
